@@ -10,12 +10,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anwarimam1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarimam1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anwarimam1&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-📧 **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+📧 **Email:** [anwar.imam412@gmail.com](mailto:anwar.imam412@gmail.com)
 
 ---
 
