@@ -123,7 +123,7 @@ A backend project focused on building maintainable APIs and applying professiona
 - 🧪 Automated build and validation workflow.
 - 🐳 Docker-based development environment.
 
-🔗 **Repository:** [Add your TicketRush repository URL here](YOUR_TICKETRUSH_REPO_URL)
+🔗 **Repository:** [Add your TicketRush repository URL here](https://github.com/anwarimam1/ticketrush)
 
 *Add only the features and technologies already implemented in the repository.*
 
