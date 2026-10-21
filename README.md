@@ -86,7 +86,7 @@
 
 ## 📈 GitHub Activity Graph
 
-[![Anwar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Anwar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anwarimam1&theme=tokyo-night)](https://github.com/anwarimam1)
 
 ---
 
